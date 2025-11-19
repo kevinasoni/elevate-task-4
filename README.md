@@ -49,5 +49,6 @@ This project builds a binary classifier using Logistic Regression on the Breast 
 ## Visuals
 
 - `roc_curve.png`: ROC curve of the classifier.
-- `sigmoid_function.png`: Graph of the sigmoid activation function.
+
+<img width="2400" height="1600" alt="roc_curve" src="https://github.com/user-attachments/assets/d01db962-ac25-4848-aeba-e6cfe30b4d80" />
 
